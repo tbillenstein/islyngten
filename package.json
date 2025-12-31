@@ -1,6 +1,6 @@
 {
   "name": "islyngten",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Islyngten is a tiny JavaScript library supplying I18N translation support for Node.js and the browser.",
   "main": "islyngten.js",
   "directories": {
