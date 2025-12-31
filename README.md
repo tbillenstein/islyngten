@@ -36,8 +36,8 @@ const i18n = new Islyngten();
 `Islyngten` has no dependencies, which makes it easy to include in a browser.
 
 You can download the latest release from the repository
-* [`islyngten.js`](https://github.com/belexos/islyngten/blob/master/islyngten.js) unminified, including comments
-* [`islyngten.min.js`](https://github.com/belexos/islyngten/blob/master/islyngten.min.js) minified version
+* [`islyngten.js`](https://github.com/tbillenstein/islyngten/blob/master/islyngten.js) unminified, including comments
+* [`islyngten.min.js`](https://github.com/tbillenstein/islyngten/blob/master/islyngten.min.js) minified version
 
 Use a script tag to directly add `Islyngten` to the global scope.
 
@@ -268,7 +268,7 @@ translation = rb.__("file", "files", 30);
 
 Even more examples
 ------------------
-Please refer to the [test spec](https://github.com/belexos/islyngten/blob/master/spec/IslyngtenSpec.js) for more examples.
+Please refer to the [test spec](https://github.com/tbillenstein/islyngten/blob/master/spec/IslyngtenSpec.js) for more examples.
 
 
 Testing
@@ -298,7 +298,7 @@ Build
 
 Contribution
 ------------
-Please use [Github issues](https://github.com/belexos/islyngten/issues) for requests.
+Please use [Github issues](https://github.com/tbillenstein/islyngten/issues) for requests.
 
 Pull requests are welcome.
 
@@ -317,8 +317,8 @@ in the issue which will reproduce the bug.
 
 Support
 -------
-* Send us an email: [support@belexos.com](mailto:support@belexos.com)
-* Follow us on Twitter: [@belexos](http://twitter.com/belexos)
+* Send us an email: [tb@thomasbillenstein.com](mailto:tb@thomasbillenstein.com)
+* Follow us on Twitter: [@tbillenstein](https://x.com/tbillenstein/)
 
 
 Changelog
@@ -347,4 +347,4 @@ v1.0.0
 
 License
 -------
-Copyright (c) 2013-present, Belexos. `Islyngten` is licensed under the [MIT License](https://github.com/belexos/islyngten/blob/master/LICENSE).
+Copyright (c) 2013-present, tbillenstein. `Islyngten` is licensed under the [MIT License](https://github.com/tbillenstein/islyngten/blob/master/LICENSE).
