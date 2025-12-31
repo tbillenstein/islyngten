@@ -16,8 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/belexos/islyngten.git"
+    "url": "https://github.com/tbillenstein/islyngten"
   },
+  "bugs": {
+    "url": "https://github.com/tbillenstein/islyngten/issues"
+  },
+  "homepage": "https://github.com/tbillenstein/islyngten#readme",
   "keywords": [
     "i18n",
     "internationalization",
@@ -29,9 +33,8 @@
     "plural",
     "gettext"
   ],
-  "author": "Br00ze <br00ze@belexos.com> (http://belexos.com)",
+  "author": "tbillenstein <tb@thomasbillenstein.com> (https://thomasbillenstein.com)",
   "license": "MIT",
-  "homepage": "https://github.com/belexos/islyngten#readme",
   "nyc": {
     "exclude": [
       "**/*Spec.js"
